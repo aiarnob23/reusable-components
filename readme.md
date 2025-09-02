@@ -36,4 +36,4 @@
 
 This file includes a responsive **navigation menu** with **GSAP animations** 
 
-### 📂 File Location
+- **`src/components/app-sidebar.tsx`**
