@@ -33,6 +33,11 @@
 
 
 # 🚀 Navigation Menu
+## Navbar - 1
+
+<img width="483" height="840" alt="Image" src="https://github.com/user-attachments/assets/a1385edc-0e62-43d4-b7a3-f8024490e53d" />
+
+<img width="1918" height="773" alt="Image" src="https://github.com/user-attachments/assets/53c6a168-a087-4b8a-aa10-5e71e01119b4" />
 
 This file includes a responsive **navigation menu** with **GSAP animations** 
 
