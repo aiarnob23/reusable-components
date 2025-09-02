@@ -30,3 +30,10 @@
 
 - **Remove**
   - `nav-projects.tsx` (you may not needed)
+
+
+# 🚀 Navigation Menu
+
+This file includes a responsive **navigation menu** with **GSAP animations** 
+
+- Explore Components > Navbar.tsx
