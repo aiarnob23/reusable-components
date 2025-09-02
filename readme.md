@@ -36,4 +36,4 @@
 
 This file includes a responsive **navigation menu** with **GSAP animations** 
 
-- Explore Components > Navbar.tsx
+### 📂 File Location
