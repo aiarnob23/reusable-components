@@ -7,7 +7,7 @@
 <img width="201" height="449" alt="Image" src="https://github.com/user-attachments/assets/42c849b0-46e2-4776-a115-51de99d24bb9" />
 
 ## Layout
-- **File:** `src/layout/DashboardLayout.tsx`
+- **File:** `react/src/layout/DashboardLayout.tsx` 
   - Sidebar trigger button
   - Separator
   - Header (optional)
@@ -39,6 +39,28 @@
 
 <img width="1918" height="773" alt="Image" src="https://github.com/user-attachments/assets/53c6a168-a087-4b8a-aa10-5e71e01119b4" />
 
-This file includes a responsive **navigation menu** with **GSAP animations** 
+- **File:** `react/src/components/navbar/Navbar.tsx`
+  - Responsive **navigation menu**
+  - Built with **GSAP animations** 
+  - Contains toggle logic for mobile devices
 
-- **`src/components/app-sidebar.tsx`**
+
+# 📊 Tables
+## Table - 1 (Shadcn)
+
+<img width="1687" height="673" alt="Image" src="https://github.com/user-attachments/assets/1e9b707c-bd93-4905-aca5-1beda600bf3a" />
+
+- **File:** `react/src/components/shared/table1/Table1.tsx`
+  - Customizable table
+  - Add/remove table borders
+  - Modify text styles, colors, and spacing
+  - Example: invoices list with status, method, amount, etc.
+  - Supports `last:border-b-0` for removing the last row border
+
+- **File:** `react/src/components/ui/table.tsx`
+  - Base reusable table
+  - Controls **caption position** (`caption-top` or `caption-bottom`)
+  - ⚠️ Do **not** directly control borders here if table is used globally
+
+
+---
